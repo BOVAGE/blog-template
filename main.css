@@ -187,12 +187,6 @@ img.menu {
 	display: none;
 }
 
-/* shows the menu bar  */
-.right-nav.show {
-	width: 100%;
-	height: 100vh;
-}
-
 
 /* showcase section rules */
 .showcase-container {
@@ -532,6 +526,12 @@ footer a {
 		border-radius: 50%;
 		padding: 20px;
 		margin: 25px auto 10px;
+	}
+	
+	/* shows the menu bar  */
+	.right-nav.show {
+		width: 100%;
+		height: 100vh;
 	}
 	
 	.search {
